@@ -1,5 +1,5 @@
 # Deployed Link
- [firebase login --reauth](https://e-shop-5cc19.web.app/)
+ [Link](https://e-shop-5cc19.web.app/)
 
 # Getting Started with Create React App
 

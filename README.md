@@ -1,3 +1,6 @@
+# Deployed Link
+ [firebase login --reauth](https://e-shop-5cc19.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
